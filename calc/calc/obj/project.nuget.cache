@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EbXd5AGbHw0jP9UKTDVjjyeNtnIYoUdyTzobwM1VtuRWeMMyzCO6qsesPWz8/l5O3qGj5pQUjjNARxv8ndDu7A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nkrts\\Desktop\\учеба22-23\\лр5\\CLC\\calc\\calc\\calc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nkrts\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}
