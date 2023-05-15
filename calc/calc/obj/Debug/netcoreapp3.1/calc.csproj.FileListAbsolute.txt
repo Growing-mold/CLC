@@ -1,0 +1,14 @@
+C:\Users\nkrts\Desktop\учеба22-23\лр5\CLC\calc\calc\bin\Debug\netcoreapp3.1\calc.exe
+C:\Users\nkrts\Desktop\учеба22-23\лр5\CLC\calc\calc\bin\Debug\netcoreapp3.1\calc.deps.json
+C:\Users\nkrts\Desktop\учеба22-23\лр5\CLC\calc\calc\bin\Debug\netcoreapp3.1\calc.runtimeconfig.json
+C:\Users\nkrts\Desktop\учеба22-23\лр5\CLC\calc\calc\bin\Debug\netcoreapp3.1\calc.runtimeconfig.dev.json
+C:\Users\nkrts\Desktop\учеба22-23\лр5\CLC\calc\calc\bin\Debug\netcoreapp3.1\calc.dll
+C:\Users\nkrts\Desktop\учеба22-23\лр5\CLC\calc\calc\bin\Debug\netcoreapp3.1\calc.pdb
+C:\Users\nkrts\Desktop\учеба22-23\лр5\CLC\calc\calc\obj\Debug\netcoreapp3.1\calc.csproj.AssemblyReference.cache
+C:\Users\nkrts\Desktop\учеба22-23\лр5\CLC\calc\calc\obj\Debug\netcoreapp3.1\calc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nkrts\Desktop\учеба22-23\лр5\CLC\calc\calc\obj\Debug\netcoreapp3.1\calc.AssemblyInfoInputs.cache
+C:\Users\nkrts\Desktop\учеба22-23\лр5\CLC\calc\calc\obj\Debug\netcoreapp3.1\calc.AssemblyInfo.cs
+C:\Users\nkrts\Desktop\учеба22-23\лр5\CLC\calc\calc\obj\Debug\netcoreapp3.1\calc.csproj.CoreCompileInputs.cache
+C:\Users\nkrts\Desktop\учеба22-23\лр5\CLC\calc\calc\obj\Debug\netcoreapp3.1\calc.dll
+C:\Users\nkrts\Desktop\учеба22-23\лр5\CLC\calc\calc\obj\Debug\netcoreapp3.1\calc.pdb
+C:\Users\nkrts\Desktop\учеба22-23\лр5\CLC\calc\calc\obj\Debug\netcoreapp3.1\calc.genruntimeconfig.cache
